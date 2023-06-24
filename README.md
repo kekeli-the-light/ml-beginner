@@ -1,7 +1,7 @@
 # The Machine Learning Journey
 This repository contains everything I do in my machine learning journey<br>
 Follow me on hasnode at http://hashnode.com/@kekeli for content on machine learning.<br>
-
+If you're a beginner checkout my article on a machine learning guide   <br>
 ## Resources
 In this Repository you will find books, dataset and models I built while learning ML.<br>
 <br>
@@ -10,4 +10,11 @@ In this Repository you will find books, dataset and models I built while learnin
 * Data Analysis and Science Using Pandas, matplotlib, and the Python Programming Language
 * Python Machine Learning Projects <br>
 etc. all in the directory named Books in this Repository
+* Story telling with data: a data visualization guide
+<br>
+*Courses*
+* Machine Learing with Python by IBM https://www.coursera.org/learn/machine-learning-with-python/home/welcome 
+* Machine Learning(DeepLearning.AI) https://www.coursera.org/specializations/machine-learning-introduction
+<br>
+
 
