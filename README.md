@@ -4,6 +4,7 @@ Follow me on hasnode at http://hashnode.com/@kekeli for content on machine learn
 
 ## Resources
 In this Repository you will find books, dataset and models I built while learning ML.<br>
+<br>
 *Books*
 * Hands on machine learning by Oreilly
 * Data Analysis and Science Using Pandas, matplotlib, and the Python Programming Language
