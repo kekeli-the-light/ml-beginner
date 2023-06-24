@@ -5,7 +5,7 @@ If you're a beginner checkout my article on a machine learning guide   <br>
 ## Resources
 In this Repository you will find books, dataset and models I built while learning ML.<br>
 <br>
-### Books
+#### Books
 * Hands on machine learning by Oreilly
 * Data Analysis and Science Using Pandas, matplotlib, and the Python Programming Language
 * Python Machine Learning Projects 
@@ -13,8 +13,8 @@ In this Repository you will find books, dataset and models I built while learnin
 etc. all in the directory named *books* in this repository.
 
 #### Courses
-* Machine Learing with Python by IBM [Link](https://www.coursera.org/learn/machine-learning-with-python/home/welcome) 
-* Machine Learning(DeepLearning.AI)[Link](https://www.coursera.org/specializations/machine-learn  ing-introduction)
+* Machine Learing with Python by IBM [Click this](https://www.coursera.org/learn/machine-learning-with-python/home/welcome) 
+* Machine Learning(DeepLearning.AI) [Click this](https://www.coursera.org/specializations/machine-learn  ing-introduction)
 <br>
 
 
