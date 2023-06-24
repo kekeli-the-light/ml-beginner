@@ -13,8 +13,8 @@ In this Repository you will find books, dataset and models I built while learnin
 etc. all in the directory named *books* in this repository.<br>
 <br>
 *Courses*
-* Machine Learing with Python by IBM https://www.coursera.org/learn/machine-learning-with-python/home/welcome 
-* Machine Learning(DeepLearning.AI) https://www.coursera.org/specializations/machine-learning-introduction
+* Machine Learing with Python by IBM https://www.coursera.org/learn/machine-learning-with-  python/home/welcome 
+* Machine Learning(DeepLearning.AI) https://www.coursera.org/specializations/machine-learn  ing-introduction
 <br>
 
 
