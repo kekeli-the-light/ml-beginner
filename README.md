@@ -14,7 +14,7 @@ etc. all in the directory named *books* in this repository.
 
 #### Courses
 * Machine Learing with Python by IBM [Click this](https://www.coursera.org/learn/machine-learning-with-python/home/welcome) 
-* Machine Learning(DeepLearning.AI) [Click this](https://www.coursera.org/specializations/machine-learn  ing-introduction)
+* Machine Learning(DeepLearning.AI) [Click this](https://www.coursera.org/specializations/machine-learning-introduction)
 <br>
 
 
