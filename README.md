@@ -8,10 +8,9 @@ In this Repository you will find books, dataset and models I built while learnin
 *Books*
 * Hands on machine learning by Oreilly
 * Data Analysis and Science Using Pandas, matplotlib, and the Python Programming Language
-* Python Machine Learning Projects <br>
-etc. all in the directory named Books in this Repository
-* Story telling with data: a data visualization guide
-<br>
+* Python Machine Learning Projects 
+* Story telling with data: a data visualization guide<br>
+etc. all in the directory named *books* in this repository
 *Courses*
 * Machine Learing with Python by IBM https://www.coursera.org/learn/machine-learning-with-python/home/welcome 
 * Machine Learning(DeepLearning.AI) https://www.coursera.org/specializations/machine-learning-introduction
